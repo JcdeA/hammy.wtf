@@ -17,8 +17,8 @@ interface DVDLogoProps {
     speed: number;
 }
 
-const widthDVDLogo = 200;
-const heightDVDLogo = 97.45;
+const widthDVDLogo = 322
+const heightDVDLogo = 70
 
 class DVDLogo extends Component<DVDLogoProps, DVDLogoState> {
 
